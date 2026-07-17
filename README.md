@@ -75,8 +75,6 @@ Areas of expertise:
 
 **Beyond the Chatbot: Building an Autonomous Agent with Azure AI Foundry**
 
-📂 [Repository](./talks/2026-07-azure-ai-foundry-autonomous-agent)
-
 ---
 
 More sessions and technical resources will be added over time.
